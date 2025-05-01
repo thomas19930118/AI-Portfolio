@@ -79,7 +79,6 @@ def rate_limiter() -> RateLimiter:
 def openai_client() -> OpenAI:
     """Creates OpenAI-compatible client instance"""
     return OpenAI(
-        base_url=os.getenv("LLM_ROUTER_URL"),
         api_key=os.getenv("LLM_ROUTER_API_KEY")
     )
 
