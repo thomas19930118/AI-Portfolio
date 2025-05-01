@@ -1,0 +1,47 @@
+{
+  "personal": {
+    "name": "Thomas Jepson",
+    "email": "thomasj19930118@gmail.com",
+    "profileImageAlt": "Thomas Jepson"
+  },
+  "social": {
+    "github": {
+      "url": "https://github.com/thomas19930118"
+    },
+    "linkedin": {
+      "url": "https://linkedin.com/in/thomas19930118"
+    },
+    "email": {
+      "url": "thomasj19930118@gmail.com"
+    }
+  },
+  "content": {
+    "intro": {
+      "cards": [
+        {
+          "title": "Years of Growth",
+          "description": "Documenting my life's journey",
+          "icon": "Brain"
+        },
+        {
+          "title": "Knowledge Collection",
+          "description": "My insights from books, podcasts, blogs and social media posts",
+          "icon": "BookOpen"
+        },
+        {
+          "title": "AI Conversations",
+          "description": "Based on my real experince and content",
+          "icon": "MessageSquareText"
+        }
+      ],
+      "paragraphs": [
+        "For years, I’ve been documenting my journey—here’s where I share how my career in tech and my personal growth come together. This space reflects the lessons and insights I’ve gained along the way.",
+        "Using my authentic writings and reflections, you can explore my documented insights and experiences. While AI isn't perfect, I hope it will share my story as genuinely as possible."
+      ]
+    }
+  },
+  "chat": {
+    "inputPlaceholder": "Ask me anything about Thomas...",
+    "initialMessage": "Hey there! 👋 I'm Thomas's AI assistant, I have access to his writings, and life insights. Feel free to ask and explore about his professional path or personal growth!"
+  }
+} 
